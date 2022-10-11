@@ -3,9 +3,9 @@
 # Website
 This Project was made back then when I Started my Web Design. It was made to actually text my css layout grids. and of cause, it responsive across all web surfer devices. This was a small project which mostly consisted of HTML and CSS. I built a fully-responsive landing page. The only JavaScript this project required was to enable the toggling of the mobile navigation. This Project was done to perfect setting down of reponsiveness in a website.
 
-![screenshot](Images/next-website-preview.png)
+![screenshot](preview.png)
 
-## [LiveDemo](https://next-website-lime.vercel.app/)
+## [LiveDemo](https://color-website-delta.vercel.app/)
 
 ## Built With
 

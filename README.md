@@ -23,10 +23,10 @@ Basic knowledge of HTML, CSS.
 ### Setup
 If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
 
-[Download the ZIP from this location](https://github.com/Fatima-hub333/next-website/archive/refs/heads/main.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
+[Download the ZIP from this location](https://github.com/Fatima-hub333/color-website/archive/refs/heads/dev.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
 
 ```bash
-git clone https://github.com/Fatima-hub333/next-website.git
+git clone https://github.com/Fatima-hub333/color-website.git
 ```
 
 - Once the files are on your machine, open the _Portfolio_ folder in [Visual Studio Code](https://code.visualstudio.com/).
@@ -53,7 +53,7 @@ The following tools help make easier to work with sample code.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Fatima-hub333/next-website/issues).
+Feel free to check the [issues page](https://github.com/Fatima-hub333/color-website/issues).
 
 ## Show your support
 
